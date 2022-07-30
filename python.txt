@@ -1,0 +1,47 @@
+limitations {Disadvantages / where } python is not suitable
+~ Currently python is not suitable for mobile application.There is not much penetration in mobile applications .
+~ Performance wise slow {Since interpreted so one and only line is executed at a time} 
+Java is better performance wise as inside JVM{Java Virtual Machine} JIT compiler
+is there .But in normal version of python there is no such support is there.
+~
+
+Features of Python:
+1.Simple and easy to learn.
+2. Freeware and open source
+ If we have any perforamnce issuse we can modify 
+3.High level language
+4.Platform independent
+   Can run on any OS 
+5.Portable -Suppose we already have Some piece of code{program} in windows system and we want migrate to mac
+	OS
+****6.Dynamically typed : 
+7.Both Procedural Orientaed and object oriented
+8. Interpreted : 
+9. Extensible : We can use other language program in python e.g. Java or C etc can be used in python .
+   We can use already existing code  and don't need to rewrite .Suppose we have code of {1Lakh LOC -Line Of
+   Code} we can use it in python. By this we can improve performance of the application.
+   If we bring other programming language code in our python program then we might miss the overall platform 
+   Independent nature of python.
+10.Embeded : we can use python program in any other language.
+11. Extensive Library : we don't need to 
+
+
+
+Flavours of Python
+-------------------
+1. CPython : It is the standard flavour of python it can be used to work with C language application.
+2.Jython or Jpython: Works with java application .
+3.IronPython : It was developed to work with C#
+4.Pypy : (Python for performance) Inside the Python Virtual machine (PVM) JIT compiler is placed by default
+  so the performance relatively improves.
+5. RubyPython : This works with Ruby application
+6.AncondaPython : To handle big data (e.g Hadoop) It was specially desiged to handdle large volume of data.
+7. Stackless(Python for concurrency):Multithreaded programming. i.e. Things are going to be executed parallely.
+
+
+Python Versions
+---------------------------									(02)
+Python 1.0 introduced in jan1994
+Python 2.0 introduced in October 2000
+Python 3.0 introduced in Dec  2008
+Python 3.6.3  ==>  2016
